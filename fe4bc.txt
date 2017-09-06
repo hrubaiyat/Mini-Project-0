@@ -1,0 +1,3 @@
+Francisco Escobar fe4bc
+I have taken the Intro to Embedded course with Professor Delong and used the msp430 with code composer studio.
+Aside from school work my interests include reading, watching tv, and playing video games. I expect to have a better understand of microcontrollers by taking this course.
