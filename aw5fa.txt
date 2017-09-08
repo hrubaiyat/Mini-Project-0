@@ -1,0 +1,13 @@
+Ailec Wu - aw5fa
+
+Background: I've taken intro to embedded systems (ECE 3430, worked with MSP430
+in C), and am also currently taking ECE 4440 (Capstone, embedded systems design). I've worked a
+bit with the Arduino as well (C++).
+
+As a EE/CpE double major, I take interests in most things
+electrical/electronics related (from clean room work all the way to coding
+algorithms); I also enjoy learning about math -- pure or applied. Hopefully,
+with this class, I'll be much more familiar and comfortable working with
+embedded systems on a general level, as well as able to incorporate my
+knowledge into my own personal projects.
+
